@@ -1,0 +1,84 @@
+Displays or modifies file extension associations.
+Displays or changes file attributes.
+Sets or clears extended CTRL+C checking.
+Sets properties in boot database to control boot loading.
+Displays or modifies access control lists (ACLs) of files.
+Calls one batch program from another.
+Displays the name of or changes the current directory.
+Displays or sets the active code page number.
+Displays the name of or changes the current directory.
+Checks a disk and displays a status report.
+Displays or modifies the checking of disk at boot time.
+Clears the screen.
+Starts a new instance of the Windows command interpreter.
+Sets the default console foreground and background colors.
+Compares the contents of two files or sets of files.
+Displays or alters the compression of files on NTFS partitions.
+Converts FAT volumes to NTFS.  You cannot convert the current drive.
+Copies one or more files to another location.
+Displays or sets the date.
+Deletes one or more files.
+Displays a list of files and subdirectories in a directory.
+Displays or configures Disk Partition properties.
+Edits command lines, recalls Windows commands, and reates macros.
+Displays current device driver status and properties.
+Displays messages, or turns command echoing on or off.
+Ends localization of environment changes in a batch file.
+Deletes one or more files.
+Quits the CMD.EXE program (command interpreter).
+Compares two files or sets of files, and displays the  differences between them.
+Searches for a text string in a file or files.
+Searches for strings in files.
+Runs a specified command for each file in a set of files.
+Formats a disk for use with Windows.
+Displays or configures the file system properties.
+Displays or modifies file types used in file extension associations.
+Directs the Windows command interpreter to a labeled line in a batch program.
+Displays Group Policy information for machine or user.
+Enables Windows to display an extended character set in graphics mode.
+Provides Help information for Windows commands.
+Display, modify, backup, or restore ACLs for files and directories.
+Performs conditional processing in batch programs.
+Creates, changes, or deletes the volume label of a disk.
+Creates a directory.
+Creates a directory.
+Creates Symbolic Links and Hard Links
+Configures a system device.
+Displays output one screen at a time.
+Moves one or more files from one directory to another directory.
+Displays files opened by remote users for a file share.
+Displays or sets a search path for executable files.
+Suspends processing of a batch file and displays a message.
+Restores the previous value of the current directory saved by PUSHD.
+Prints a text file.
+Changes the Windows command prompt.
+Saves the current directory then changes it.
+Removes a directory.
+Recovers readable information from a bad or defective disk.
+Records comments (remarks) in batch files or CONFIG.SYS.
+Renames a file or files.
+Renames a file or files.
+Replaces files.
+Removes a directory.
+Advanced utility to copy files and directory trees
+Displays, sets, or removes Windows environment variables.
+Begins localization of environment changes in a batch file.
+Displays or configures services (background processes).
+Schedules commands and programs to run on a computer.
+Shifts the position of replaceable parameters in batch files.
+Allows proper local or remote shutdown of machine.
+Sorts input.
+Starts a separate window to run a specified program or command.
+Associates a path with a drive letter.
+Displays machine specific properties and configuration.
+Displays all currently running tasks including services.
+Kill or stop a running process or application.
+Displays or sets the system time.
+Sets the window title for a CMD.EXE session.
+Graphically displays the directory structure of a drive or path.
+Displays the contents of a text file.
+Displays the Windows version.
+Tells Windows whether to verify that your files are written correctly to a disk.
+Displays a disk volume label and serial number.
+Copies files and directory trees.
+Displays WMI information inside interactive command shell.
